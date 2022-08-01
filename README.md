@@ -1,11 +1,3 @@
-# MazeVR - Udacity Nanodegree (Project 3)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-> "Real obstacles don't take you in circles. They can be overcome. Invented ones are like a maze."
-
-## Overview
-Now that I've learned more about scripting for virtual reality, the Nanodegree program presented me with the opportunity to actually experience it in context. This project allowed me to gain confidence by transfering my 
-previous software development knowledge towards this new, unfamiliar paradigm. Limited examples and small demo scenes do not tell the whole story - bringing everything together ends up being a lot of the work.
-For this project, I was able to create a fully interactive VR experience in the form of a maze.
 
 
 ## Some Challenges
